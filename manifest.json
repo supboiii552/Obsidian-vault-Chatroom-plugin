@@ -1,0 +1,9 @@
+{
+  "id": "chatroom-bridge",
+  "name": "Chatroom Bridge",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Chat bridge",
+  "author": "8bitnutella",
+  "isDesktopOnly": false
+}
